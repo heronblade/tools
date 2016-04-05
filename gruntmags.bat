@@ -1,0 +1,2 @@
+CD %TOPSPIN_HOME%\
+grunt
