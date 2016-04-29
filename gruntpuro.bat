@@ -1,0 +1,2 @@
+CD %PUROLITE_HOME%\
+grunt
